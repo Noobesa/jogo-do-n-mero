@@ -1,0 +1,30 @@
+
+
+*{margin:0;
+  box-sizing:border-box;
+  padding:0;}
+
+
+  html {
+    font-family: sans-serif;
+  }
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+  }
+
+  h1{
+    margin-bottom:10px;
+    text-align:center;
+  }
+
+  .campoPalpite{
+    margin-top: 10px;
+  }
+
+  .ultimoResultado {
+    color: white;
+    padding: 3px;
+  }
